@@ -15,6 +15,10 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Screenshot](assets/screenshots/splash.jpeg)
-![Screenshot](assets/screenshots/register.jpeg)
-![Screenshot](assets/screenshots/login.jpeg)
+<!-- * comment  -->
+<!-- * heading  -->
+# user app in flutter
+
+![splash](assets/screenshots/splash.jpeg)
+![register](assets/screenshots/register.jpeg)
+![login](assets/screenshots/login.jpeg)
