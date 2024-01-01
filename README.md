@@ -19,6 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 <!-- * heading  -->
 # user app in flutter
 
-![splash](assets/screenshots/splash.jpeg)
-![register](assets/screenshots/register.jpeg)
-![login](assets/screenshots/login.jpeg)
+![splash](E:\flutter_cubit\user_app\files\splash.jpeg)
