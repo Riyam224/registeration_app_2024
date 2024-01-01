@@ -19,4 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 <!-- * heading  -->
 # user app in flutter
 
-![splash](E:\flutter_cubit\user_app\files\splash.jpeg)
+![splash](E:/flutter_cubit/user_app/files/splash.jpeg)
