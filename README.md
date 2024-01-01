@@ -19,4 +19,17 @@ samples, guidance on mobile development, and a full API reference.
 <!-- * heading  -->
 # user app in flutter
 
+##### splash screen
+
 ![splash screen](/assets/screenshots/splash.jpeg "splash screen")
+___
+
+##### register screen
+
+![register screen](/assets/screenshots/register.jpeg "register screen")
+
+___
+
+##### login screen
+
+![login screen](/assets/screenshots/login.jpeg "login screen")
